@@ -12,3 +12,5 @@ public static final String MS_DOC="application/msword";
 	public static final String MS_PPTX="application/vnd.openxmlformats-officedocument.presentationml.presentation";
 	public static final String MS_DOTX="application/vnd.openxmlformats-officedocument.wordprocessingml.template";
 	public static final String MS_VISIO="application/vnd.viso";
+	
+【3】
